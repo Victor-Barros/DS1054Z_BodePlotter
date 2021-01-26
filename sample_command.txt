@@ -1,0 +1,2 @@
+python3 bode.py 1e3 1e6 10 --ds_ip 192.168.2.113 --awg_port /dev/ttyUSB0 --output out1.csv
+
